@@ -51,7 +51,7 @@ This document is where I hope to get a lot of my structure down. This will inclu
 
 ## Classes
 
-![UML-Diagram](./planning/umlDiagram.svg)
+![UML-Diagram](./readmeAssets/umlDiagram.svg)
 
 # Changelog
 
